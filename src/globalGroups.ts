@@ -1,6 +1,6 @@
 import { defineGkdGlobalGroups } from '@gkd-kit/define';
 
-// Extracted from Lin-arm/GKD_subscription v611.
+// Extracted from Lin-arm/GKD_subscription v612.
 export default defineGkdGlobalGroups([
   {
     key: 0,
